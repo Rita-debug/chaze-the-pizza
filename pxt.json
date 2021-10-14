@@ -1,5 +1,6 @@
 {
     "name": "Chaze the Pizza",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "device": "*"
